@@ -1,8 +1,8 @@
 //* Primitive are copied by their value
 //* Objects are copied by their reference
 
-//TODO: Value Types:: Number, String, Boolean, Symbol, undefined, null
-//TODO: Reference Types:: object, function, array
+//* Value Types:: Number, String, Boolean, Symbol, undefined, null
+//* Reference Types:: object, function, array
 
 //TODO: Example Num-1 :
 
