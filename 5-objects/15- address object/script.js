@@ -1,8 +1,11 @@
+//* Object Literal Notation
+/*
 const address = {
   street: 'Hassan Matr',
   city: 'cairo',
   zipCode: '00202'
 };
+*/
 
 function showAddress(obj) {
   for (let key in obj) {
