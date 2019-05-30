@@ -5,10 +5,10 @@ console.log('TCL: joined', joined);
 
 const message = 'This is a message';
 const parts = message.split(' '); //? this is gonna split the string and return an array
+console.log(parts);
 
 const combined = parts.join('-'); //? gonna return it to string with (-) after eac element
 
 //NOTE: This technique is useful when we built url slug
 
 console.log('TCL: combined', combined);
-console.log('TCL: parts', parts);
